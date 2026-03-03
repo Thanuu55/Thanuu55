@@ -2,6 +2,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1100&center=true&vCenter=true&width=850&lines=👩‍💻+Hi,+I'm+Thanushri+KR+|+Java+Full+Stack+Developer;☕+Crafting+Clean+Code+with+Core+Java+%26+Spring+Boot;🚀+Building+Scalable+APIs+%26+Web+Applications;🌱+Learning+DevOps+and+Cloud+Deployments;💬+Let’s+Innovate+and+Build+Something+Great!" alt="Thanushri KR Typing Animation" />
 </h1>
 
+<p align="center">
+  <p align="center">
+  <img 
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlicHc1MGl6NWM2aXpjbDl0dnQ4OThqcHI4aG1reWprOXFkemsxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sDaYbHuv8ypgZCcjG/git.gif"
+    alt="Git animation"
+    width="420"
+  />
+</p>
 ---
 
 ## 🌟 About Me
