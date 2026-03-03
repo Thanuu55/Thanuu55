@@ -2,10 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1100&center=true&vCenter=true&width=850&lines=👩‍💻+Hi,+I'm+Thanushri+KR+|+Java+Full+Stack+Developer;☕+Crafting+Clean+Code+with+Core+Java+%26+Spring+Boot;🚀+Building+Scalable+APIs+%26+Web+Applications;🌱+Learning+DevOps+and+Cloud+Deployments;💬+Let’s+Innovate+and+Build+Something+Great!" alt="Thanushri KR Typing Animation" />
 </h1>
 
-<p align="center">
-  <img src="https://s6.ezgif.com/tmp/ezgif-6ee864963b4830d9.gif" width="350" alt="Girl Developer Coding GIF"/>
-</p>
-
 ---
 
 ## 🌟 About Me
